@@ -1,0 +1,3 @@
+interface:
+  display_name: "Project Memory"
+  short_description: "管理项目规划、真实进度和长期技术决策，支持初始化、同步与一致性检查"
